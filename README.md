@@ -1835,6 +1835,7 @@ IEEE Intelligent Transportation Systems Conf. (ITSC), 2020. [Dataset](https://si
 - <a name="Mitrokhin19iros"></a>Mitrokhin, A., Ye, C., Fermüller, C., Aloimonos, Y., Delbrück, T.,  
 *[EV-IMO: Motion Segmentation Dataset and Learning Pipeline for Event Cameras](https://doi.org/10.1109/IROS40897.2019.8968520)*,  
 IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2019. [PDF](https://arxiv.org/pdf/1903.07520.pdf), [Dataset](https://better-flow.github.io/evimo), [Project page](http://prg.cs.umd.edu/EV-IMO.html)
+- Huang, Xiaoqian, et al. "A neuromorphic dataset for tabletop object segmentation in indoor cluttered environment." Scientific data [Dataset download link](https://springernature.figshare.com/collections/A_Neuromorphic_Dataset_for_Object_Segmentation_in_Indoor_Cluttered_Environment/6432548/1),  [Article](https://www.nature.com/articles/s41597-024-02920-1)
 
 ### Recognition
 - <a name="Orchard15fnins"></a>Orchard, G., Jayawant, A., Cohen, G.K., Thakor, N.,  
