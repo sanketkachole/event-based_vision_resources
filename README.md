@@ -1182,6 +1182,13 @@ IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2018. [PDF](https://a
 - <a name="Alonso19cvprw"></a>Alonso I., Murillo A.,  
 *[EV-SegNet: Semantic Segmentation for Event-based Cameras](http://openaccess.thecvf.com/content_CVPRW_2019/papers/EventVision/Alonso_EV-SegNet_Semantic_Segmentation_for_Event-Based_Cameras_CVPRW_2019_paper.pdf)*,  
 IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2019. [PDF](https://arxiv.org/pdf/1811.12039.pdf). [Project page](https://github.com/Shathe/Ev-SegNet). [Video pitch](https://youtu.be/AuXN7y3bMqo)
+- <a name="kachole2023asynchronous"></a>Kachole, S., Alkendi, Y., Naeini, F. B., Makris, D., & Zweiri, Y.,  
+*[Asynchronous events-based panoptic segmentation using graph mixer neural network](https://openaccess.thecvf.com/content/CVPR2023W/EventVision/papers/Kachole_Asynchronous_Events-Based_Panoptic_Segmentation_Using_Graph_Mixer_Neural_Network_CVPRW_2023_paper.pdf)*,  
+IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2023. [PDF](https://openaccess.thecvf.com/content/CVPR2023W/EventVision/papers/Kachole_Asynchronous_Events-Based_Panoptic_Segmentation_Using_Graph_Mixer_Neural_Network_CVPRW_2023_paper.pdf), [Supp](https://openaccess.thecvf.com/content/CVPR2023W/EventVision/supplemental/Kachole_Asynchronous_Events-Based_Panoptic_CVPRW_2023_supplemental.pdf)
+
+
+
+
 
 
 <a name="motion-segmentation"></a>
