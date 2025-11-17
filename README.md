@@ -1182,6 +1182,10 @@ IEEE/RSJ Int. Conf. Intelligent Robots and Systems (IROS), 2018. [PDF](https://a
 - <a name="Alonso19cvprw"></a>Alonso I., Murillo A.,  
 *[EV-SegNet: Semantic Segmentation for Event-based Cameras](http://openaccess.thecvf.com/content_CVPRW_2019/papers/EventVision/Alonso_EV-SegNet_Semantic_Segmentation_for_Event-Based_Cameras_CVPRW_2019_paper.pdf)*,  
 IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2019. [PDF](https://arxiv.org/pdf/1811.12039.pdf). [Project page](https://github.com/Shathe/Ev-SegNet). [Video pitch](https://youtu.be/AuXN7y3bMqo)
+- <a name="kachole2024bimodal"></a>Kachole, S., Huang, X., Naeini, F. B., Muthusamy, R., Makris, D., Zweiri, Y.,
+*[Bimodal SegNet: Fused instance segmentation using events and RGB frames](https://www.sciencedirect.com/science/article/pii/S0031320323009123)*, Pattern Recognition, 2024. [PDF](https://www.sciencedirect.com/science/article/pii/S0031320323009123)     
+
+
 
 
 <a name="motion-segmentation"></a>
